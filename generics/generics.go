@@ -6,7 +6,7 @@ import (
 	"slices"
 	"strings"
 
-	"ocm.test/testpackage/utils"
+	"ocm.software/testpackage/utils"
 )
 
 func TryCast[T, O any](o O) (T, bool) {

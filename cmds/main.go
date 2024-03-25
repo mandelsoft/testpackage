@@ -1,7 +1,7 @@
 package main
 
 import (
-	"ocm.test/testpackage/generics"
+	"ocm.software/testpackage/generics"
 )
 
 type Elem string

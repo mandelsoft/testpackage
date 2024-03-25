@@ -1,3 +1,3 @@
-module ocm.test/testpackage
+module ocm.software/testpackage
 
 go 1.21
